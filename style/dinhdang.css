@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:auto;}
+.khung{
+ width:960px;
+ height:200px;
+ border:solid 1px black;
+}
+.tren{
+ background:#1098C8;
+ width:960px;
+ height:70px;
+}
+.duoi{
+ background:url("../images/z6134119999038_ff9a95e2fec21c1d0f00bb6855843b42.jpg");
+ width:960px;
+ height:50px;
+}
+.menutren{
+ float:right;
+ padding-top:25px;
+ padding-right:60px;
+ }
+.menutren a{
+ text-decoration: none;
+ padding-right:10px;
+ padding-left:10px;
+ color:black;
+ font-weight:bold;
+}
+.anhduoi{
+ padding-top:5px;
+}
+.menuduoi{
+ padding-top:15px;
+ padding-left:40px;
+ float:right;
+}
+.menuduoi a{
+ padding-right:21px;
+ text-decoration: none;
+ font-weight:bold;
+ color:#67BBDF;
+}
+.menuduoi a:hover{
+ color: blue;
+ background: aqua;
+}
